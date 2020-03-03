@@ -1,4 +1,6 @@
 env.py
 db.sqlite3
 __pycache__/
-.gitpod*
+.gitpod.dockerfile
+.gitpod.yml
+.theia
